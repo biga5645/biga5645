@@ -1,27 +1,35 @@
-👋 Hi, I'm Biga
+# 👋 Hi, I'm Biga
 
-💻 Android & Web Developer
+### 💻 Android & Web Developer
 
-I build custom business applications and web systems
-for individuals and small businesses.
+I build custom business applications and web systems for individuals and small businesses.
 
-🚀 What I Build
-• Android Applications
-• PHP/MySQL Web Applications
-• Firebase Applications
-• Business Management Systems
-• APIs & Automation
+## 🚀 What I Build
 
-🛠️ Tech Stack
-Kotlin | Android | Firebase
-PHP | MySQL | JavaScript
-Git | REST API | n8n
+- 📱 Android Applications
+- 🌐 PHP / MySQL Web Applications
+- 🔥 Firebase Applications
+- 💼 Business Management Systems
+- ⚙️ APIs & Integrations
 
-⭐ Featured Projects
+## 🛠️ Tech Stack
 
-[ Android Business App ]
-[ PHP/MySQL Management System ]
-[ Firebase Application ]
-[ Automation / n8n Project ]
+**Mobile**
+- Kotlin
+- Android SDK
+- Firebase
 
-📞 Available for freelance projects
+**Web**
+- PHP
+- MySQL
+- JavaScript
+- Bootstrap
+
+**Integration**
+- REST APIs
+
+## 💼 Available for Freelance Projects
+
+Need a custom Android application, web system, or business solution?
+
+**Let's build it together.**
