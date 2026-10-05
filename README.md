@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Biga
 
-<!--
-**biga5645/biga5645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Android & Web Developer
 
-Here are some ideas to get you started:
+I build custom business applications and web systems
+for individuals and small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Build
+• Android Applications
+• PHP/MySQL Web Applications
+• Firebase Applications
+• Business Management Systems
+• APIs & Automation
+
+🛠️ Tech Stack
+Kotlin | Android | Firebase
+PHP | MySQL | JavaScript
+Git | REST API | n8n
+
+⭐ Featured Projects
+
+[ Android Business App ]
+[ PHP/MySQL Management System ]
+[ Firebase Application ]
+[ Automation / n8n Project ]
+
+📞 Available for freelance projects
