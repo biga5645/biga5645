@@ -1,48 +1,49 @@
 # 👋 Hi, I'm Biga
 
-### 💻 Software Developer | Android, Web & Desktop Applications
+### 💻 Android, Web & Desktop Developer | Business Applications
 
-I build custom business applications and software solutions for individuals and small businesses.
+I build custom software solutions that help individuals and small businesses manage their daily operations, data, and workflows.
 
 ## 🚀 What I Build
 
-- 📱 Android Applications
+- 📱 Android Business Applications
 - 🌐 PHP / MySQL Web Applications
 - 🖥️ C# / WPF Desktop Applications
 - 🔥 Firebase Applications
 - 💼 Business Management Systems
+- 🛒 POS & Inventory Systems
 - ⚙️ REST APIs & Integrations
 
 ## 🛠️ Tech Stack
 
-**Mobile**
+### Mobile
 - Kotlin
 - Android SDK
 - Firebase
 
-**Web**
+### Web
 - PHP
 - MySQL
 - JavaScript
 - Bootstrap
 
-**Desktop**
+### Desktop
 - C#
-- .NET
+- .NET 10
 - WPF
 - XAML
 - MVVM
 - SQL Server
 - Entity Framework Core
 
-**Integration**
+### Integration
 - REST APIs
 
 ## 📌 Featured Project
 
 ### POS_BIGA — Retail Point of Sale System
 
-A complete C# / WPF desktop application for retail sales and inventory management.
+A complete desktop application for retail businesses to manage sales, products, inventory, and daily operations.
 
 **Built with:**
 - C#
@@ -56,6 +57,6 @@ A complete C# / WPF desktop application for retail sales and inventory managemen
 
 ## 💼 Available for Freelance Projects
 
-Need a custom Android application, web system, desktop application, or business solution?
+Need a custom Android application, web system, desktop application, or business management solution?
 
 **Let's build it together.**
